@@ -1,0 +1,1 @@
+# pkgbuild-msys2-git-cinnabar
